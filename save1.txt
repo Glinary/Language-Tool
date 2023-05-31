@@ -1,0 +1,54 @@
+Cebuano: mahal
+English: expensive
+Ilocano: nangina
+Kapampangan: mal
+Mandarin: gui
+Tagalog: mahal
+
+Cebuano: gugma
+English: love
+Fookien: ai
+French: aimer
+Hiligaynon: gugma
+Ilocano: ayat
+Latin: amare
+Mandarin: ai
+Spanish: amor
+Tagalog: mahal
+
+English: i
+Fookien: gua
+Mandarin: wo
+Tagalog: ako
+
+English: you
+Fookien: di
+Mandarin: ni
+Tagalog: ikaw
+
+Tagalog: buhay
+
+Hiligaynon: tagpila
+Mandarin: tuoshao
+Tagalog: magkano
+
+English: not
+Fookien: bo
+Hiligaynon: dili
+Tagalog: hindi
+
+Cebuano: suba
+Chinese: ho
+Filipino: batis
+French: fleuve
+Ilocano: karayan
+Mandarin: tsiang
+Tagalog: ilog
+
+English: bathe
+Mandarin: sitsao
+Tagalog: ligo
+
+English: lake
+Tagalog: ilog
+

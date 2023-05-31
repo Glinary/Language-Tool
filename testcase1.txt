@@ -1,0 +1,13 @@
+English: love
+Tagalog: mahal
+Hiligaynon: gugma
+Cebuano: gugma
+Spanish: amor
+Chinese: ai
+
+Tagalog: mahal
+Kapampangan: mal
+Cebuano: mahal
+English: expensive
+Chinese: gui
+
